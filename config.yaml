@@ -27,7 +27,7 @@ monitors:
   - id: Support
     name: ryansprogramming.com/support
     description: 'Main support site for RP'
-    url: 'https://ryansprogramming.com/support'
+    url: 'https://ryansprogramming.com/support/help-center'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
