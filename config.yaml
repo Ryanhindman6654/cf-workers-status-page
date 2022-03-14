@@ -25,9 +25,9 @@ monitors:
     linkable: true # allows the title to be a link, default=true
 
   - id: Support
-    name: ryansprogramming.com/support
+    name: DeepSouth Roleplay Main Site
     description: 'Main support site for RP'
-    url: 'https://ryansprogramming.com/support/help-center'
+    url: 'https://deepsouthroleplay.ml'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
